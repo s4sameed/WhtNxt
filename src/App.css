@@ -20,8 +20,8 @@ h1 {
 form {
   position: fixed;
   top: 6.25rem;
-  right: 30%;
-  left: 30%;
+  right: 20%;
+  left: 20%;
   border-radius: 0.5rem;
   border: 2px solid rgb(66, 66, 180);
   color: #000;
@@ -31,9 +31,13 @@ form {
 .items {
   position: fixed;
   top: 6.25rem;
-  right: 30%;
-  left: 30%;
+  right: 20%;
+  left: 20%;
   border-radius: 0.5rem;
+}
+
+.input{
+
 }
 
 .form-group {

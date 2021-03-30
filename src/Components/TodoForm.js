@@ -38,7 +38,7 @@ const TodoForm = ({addTodos}) => {
     return (
         <Form onSubmit={handleSubmit}>
             <FormGroup>
-                <InputGroup>
+                <InputGroup className="input">
                     <Input
                         type="text"
                         name="todo"
